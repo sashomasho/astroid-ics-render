@@ -1,0 +1,11 @@
+[Plugin]
+Module=ics_render_plugin
+Depends=
+Loader=python3
+Name=ICS Plugin
+Description=plugin
+Authors=sashomasho@gmail.com
+Copyright=GPLv3
+Website=
+Help=
+Hidden=false
